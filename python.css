@@ -5,7 +5,7 @@ body{
 }
 /*-------------main header------------------------*/
 .main-header{
-    background:white url("img/MESir.jpg");
+    background:white url("MESir.jpg");
     padding: 70px;
     color: white;
     text-align: center;
